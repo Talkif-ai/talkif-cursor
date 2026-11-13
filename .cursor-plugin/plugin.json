@@ -1,0 +1,32 @@
+{
+  "name": "talkif",
+  "displayName": "Talkif",
+  "version": "1.0.0",
+  "description": "Reach your coding sessions, cloud agents and phone: ask, hand over tasks, review the results, ring you.",
+  "author": {
+    "name": "Talkif",
+    "email": "dev@talkif.ai"
+  },
+  "homepage": "https://docs.talkif.ai/integrate/mcp",
+  "repository": "https://github.com/Talkif-ai/talkif-cursor",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "talkif",
+    "agents",
+    "sessions",
+    "tasks",
+    "handoff",
+    "phone",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "talkif",
+    "agents",
+    "phone",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
